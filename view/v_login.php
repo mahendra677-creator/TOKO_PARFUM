@@ -121,7 +121,7 @@
 
         <div class="text-center">
             <a href="#">Lupa password?</a>
-            <p class="mt-2">Belum punya akun? <a href="v_tambah_data_pelanggan.php">Daftar di sini</a></p>
+            <p class="mt-2">Belum punya akun? <a href="v_registrasi.php">Daftar di sini</a></p>
         </div>
     </div>
 

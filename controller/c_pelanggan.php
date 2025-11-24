@@ -56,7 +56,7 @@ try {
 
 
 
-        if ($_GET['aksi'] == 'regostrasi') {
+        if ($_GET['aksi'] == 'registrasi') {
             $id = null; // AUTO_INCREMENT dari database
 
             // Mengambil data dari form
@@ -146,4 +146,7 @@ try {
 } catch (Exception $e) {
     echo $e->getMessage();
 }
+
+        
+
 ?>

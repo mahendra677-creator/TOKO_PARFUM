@@ -122,10 +122,7 @@
   </style>
 </head>
 <body>
-   <nav class="navbar">
-        <a href="v_tampil_data_pelanggan.php">Tambah Data User</a>
-        <a href="v_tambah_data_pelanggan.php">Daftar User</a>
-    </nav>
+
     
     <div class="main-container">
         <h3>Tambah Data User</h3>

@@ -22,7 +22,7 @@ $products = [
         'harga' => 1250000, 
         'stok' => 50, 
         'deskripsi' => 'Aroma bunga malam yang misterius dan mewah, cocok untuk acara malam.',
-        'image_url' => 'https://placehold.co/300x400/1f2937/ffffff?text=Midnight+Bloom' 
+        'image_url' => 'https://tse1.mm.bing.net/th/id/OIP.aa3l6Km4BxX8NFM-I04NawHaHa?pid=Api&h=220&P=0' 
     ],
     [ 
         'parfum_id' => 2, 
@@ -33,7 +33,7 @@ $products = [
         'harga' => 550000, 
         'stok' => 80, 
         'deskripsi' => 'Kesegaran seperti angin laut yang bersih dan menyegarkan, ideal untuk harian.',
-        'image_url' => 'https://placehold.co/300x400/2962ff/ffffff?text=Ocean+Breeze'
+        'image_url' => 'https://tse3.mm.bing.net/th/id/OIP.6G-L8_StOiZ0KkWBDguowgHaHa?pid=Api&h=220&P=0'
     ],
     [ 
         'parfum_id' => 3, 
@@ -44,7 +44,7 @@ $products = [
         'harga' => 780000, 
         'stok' => 30, 
         'deskripsi' => 'Aroma jeruk yang cerah dan energik, pembangkit semangat di pagi hari.',
-        'image_url' => 'https://placehold.co/300x400/f59e0b/ffffff?text=Citrus+Zest'
+        'image_url' => 'https://tse3.mm.bing.net/th/id/OIP.n-l2KjK8AXtpH0O8R6iVYAHaHa?pid=Api&h=220&P=0'
     ],
     [ 
         'parfum_id' => 4, 
@@ -55,7 +55,7 @@ $products = [
         'harga' => 1800000, 
         'stok' => 15, 
         'deskripsi' => 'Kombinasi kulit dan kayu yang maskulin dan berkarakter, sangat elegan.',
-        'image_url' => 'https://placehold.co/300x400/44403c/ffffff?text=Leather+Nights'
+        'image_url' => 'https://tse2.mm.bing.net/th/id/OIP.pVd9Qs37oyMwdbhC-mYXUwHaHa?pid=Api&h=220&P=0'
     ],
     
 ];

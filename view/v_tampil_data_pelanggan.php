@@ -189,7 +189,7 @@ include_once '../controller/c_pelanggan.php'; // Asumsi ini memuat data $pelangg
                 <li class="nav-item"><a class="nav-link" href="#">Beranda</a></li>
                 <li class="nav-item"><a class="nav-link" href="v_tambah_data_pelanggan.php">Tambah Data User</a></li>
                 <li class="nav-item"><a class="nav-link active" href="v_tampil_data_pelanggan.php">Daftar Pelanggan</a></li>
-                <li class="nav-item"><a class="nav-link" href="logout.php">Logout</a></li>
+                <li class="nav-item"><a class="nav-link" href="../asset/aksi_logout.php">Logout</a></li>
             </ul>
         </nav>
         <div class="search-container">
