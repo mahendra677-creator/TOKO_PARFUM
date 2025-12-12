@@ -57,7 +57,6 @@ $products = [
         'deskripsi' => 'Kombinasi kulit dan kayu yang maskulin dan berkarakter, sangat elegan.',
         'image_url' => 'https://tse2.mm.bing.net/th/id/OIP.pVd9Qs37oyMwdbhC-mYXUwHaHa?pid=Api&h=220&P=0'
     ],
-    
 ];
 
 $payment_methods = [
